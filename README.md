@@ -1,13 +1,13 @@
 # Cheat-sheets
 - [Automatic Speech Recognition](https://github.com/damounayman/Cheat-sheets/blob/main/Automatic_Speech_Recognition.pdf)
-- Deep Probabilistic Generatove Models
-- Docker
-- Image Mining
-- Image understanding
-- La Programmation GPU
-- Machine Learning by Stanford University
-- Machine Learning with Python
-- Parallel Programming
-- Probabilistic Graphical Models
-- Reinforcement Learning
-- Signal Processing
+- [Deep Probabilistic Generatove Models](https://github.com/damounayman/Cheat-sheets/blob/main/Deep_Probabilistic_Generatove_Models.pdf)
+- [Docker](https://github.com/damounayman/Cheat-sheets/blob/main/Docker.pdf)
+- [Image Mining](https://github.com/damounayman/Cheat-sheets/blob/main/Image_Mining.pdf)
+- [Image understanding](https://github.com/damounayman/Cheat-sheets/blob/main/Image_understanding.pdf)
+- [La Programmation GPU](https://github.com/damounayman/Cheat-sheets/blob/main/La_Programmation_GPU.pdf)
+- [Machine Learning by Stanford University](https://github.com/damounayman/Cheat-sheets/blob/main/Machine_Learning_by_Stanford_University.pdf)
+- [Machine Learning with Python](https://github.com/damounayman/Cheat-sheets/blob/main/Machine_Learning_with_Python.pdf)
+- [Parallel Programming](https://github.com/damounayman/Cheat-sheets/blob/main/Parallel_Programming.pdf)
+- [Probabilistic Graphical Models](https://github.com/damounayman/Cheat-sheets/blob/main/Probabilistic_Graphical_Models.pdf)
+- [Reinforcement Learning](https://github.com/damounayman/Cheat-sheets/blob/main/Reinforcement_Learning.pdf)
+- [Signal Processing](https://github.com/damounayman/Cheat-sheets/blob/main/Signal_Processing.pdf)
