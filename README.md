@@ -1,2 +1,13 @@
 # Cheat-sheets
-Cheat sheets
+- Automatic Speech Recognition
+- Deep Probabilistic Generatove Models
+- Docker
+- Image Mining
+- Image understanding
+- La Programmation GPU
+- Machine Learning by Stanford University
+- Machine Learning with Python
+- Parallel Programming
+- Probabilistic Graphical Models
+- Reinforcement Learning
+- Signal Processing
