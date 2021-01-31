@@ -9,5 +9,5 @@
 - [Machine Learning with Python](https://github.com/damounayman/Cheat-sheets/blob/main/Machine_Learning_with_Python.pdf)
 - [Parallel Programming](https://github.com/damounayman/Cheat-sheets/blob/main/Parallel_Programming.pdf)
 - [Probabilistic Graphical Models](https://github.com/damounayman/Cheat-sheets/blob/main/Probabilistic_Graphical_Models.pdf)
-- [Reinforcement Learning](https://github.com/damounayman/Cheat-sheets/blob/main/Reinforcement_Learning.pdf)
+- [Reinforcement Learning](https://github.com/damounayman/Cheat-sheets/blob/main/Reinforcement_Learning_Cheat_Sheet.pdf)
 - [Signal Processing](https://github.com/damounayman/Cheat-sheets/blob/main/Signal_Processing.pdf)
