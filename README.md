@@ -1,5 +1,5 @@
 # Cheat-sheets
-- Automatic Speech Recognition
+- [Automatic Speech Recognition](https://github.com/damounayman/Cheat-sheets/blob/main/Automatic_Speech_Recognition.pdf)
 - Deep Probabilistic Generatove Models
 - Docker
 - Image Mining
